@@ -68,3 +68,11 @@ th {
   color: #fff;
   background-color: #000;
 }
+
+.label {
+  display: block;
+}
+
+.submit {
+  padding: 0 6px;
+}
