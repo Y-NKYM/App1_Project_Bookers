@@ -26,7 +26,7 @@
 <% end %>
 
 <p>
-  <%= link_to "Show", book_path(@book.id)%>
+  <%= link_to "Show", book_path(@book.id), class: "link" %>
   <span> | </span>
-  <%= link_to "Back", '/books' %>
+  <%= link_to "Back", '/books', class: "link" %>
 </p>
