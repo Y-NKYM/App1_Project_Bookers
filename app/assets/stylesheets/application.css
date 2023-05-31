@@ -103,3 +103,7 @@ th {
   padding: 2px;
   background-color: red;
 }
+
+.flash_message {
+  color: green;
+}
